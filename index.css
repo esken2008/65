@@ -1,0 +1,168 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #766a4f; 
+    color: rgb(176,202,16); 
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+   
+}
+
+.section:last-child {
+    border: none;
+}
+
+.text-content {
+    max-width: 50%;
+}
+.text-content img {
+    max-width: 100%;
+}
+
+.text-content h1, .text-content h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.text-content p {
+    margin-bottom: 20px;
+    font-size: 1rem;
+}
+
+.text-content a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #D6E28A;
+    color: rgb(114,100,73);
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+
+.text-content a:hover {
+    background-color: #c3da7e;
+}
+
+.image-content {
+    max-width: 60%;
+    display: flex;
+justify-content: space-between;
+flex-wrap: wrap;fredrfewrfw
+    
+}
+
+.image-content img {
+
+    position: relative;
+    overflow: hidden;
+    margin-right: 50px;
+    position: relative;
+    width: 100%;
+    border-radius: 10px; 
+}
+
+.decorative-icon {
+    position: absolute;
+    width: 100px;
+    height: auto;
+}
+
+.top-icon {
+    top: 10%;
+    left: 10%;
+}
+
+.bottom-icon {
+    bottom: 10%;
+    right: 10%;
+}
+
+.center-icon {
+    bottom: 50%;
+    right: 50%;
+}
+.chainik{
+    transform: translate(0% , -60%);
+}
+.bokal{
+    transform: translate(320% , 60%);
+}
+.typfon{
+    transform: translate(50% ,-20%);
+}
+.jjj{
+    transform: translate(-60% ,15%);
+    max-width: 200%;
+}
+.ggg{
+    transform: translate(45% ,-92%);
+    max-width: 600px;
+}
+.tyfon{
+    transform: translate(50% ,-120%);
+}
+.hh{
+    transform: translate(-40% ,100%);
+}
+.hggh{
+    width: 600px;
+    transform: translate(-40% ,400%);
+}
+.чяшке{
+    transform: translate(-450% ,100%);
+}
+.chiiik{
+    transform: translate(-50% , -90%);
+}
+.iii{
+    transform: translate(0% , 17%);
+}
+.teckstt {
+    transform: translate(-460% , 300%);
+}
+.ddd {
+    transform: translate(0% , 0%);
+    max-width: 500%;
+}
+.qdqd {
+    transform: translate(20% , -400%);
+}
+.hghg {
+    transform: translate(30% , -400%);
+    width: 888px;
+}
+.icon {
+    transform: translate(70% , -600%);
+}
+.чаправ{
+    transform: translate(-100% , -300%);
+}
+.bkal{
+    transform: translate(-1450% , 100%);
+}
+.шке{
+    transform: translate(0% ,50%);
+}
+.й{
+    transform: translate(0% , 80%);
+}
+
